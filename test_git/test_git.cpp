@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << " Melenchon 2027! \n";
+    std::cout << " HELLO \n";
 }
 
